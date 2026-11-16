@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">طريق الجنة</string>
+    <string name="nav_dashboard">الرئيسية</string>
+    <string name="nav_prayers">الصلوات</string>
+    <string name="nav_quran">القرآن</string>
+    <string name="nav_adhkar">الأذكار</string>
+    <string name="nav_more">الإعدادات</string>
+    <string name="notification_channel_prayers">مواقيت الصلاة</string>
+    <string name="notification_channel_adhkar">الأذكار والورد</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "طريق الجنة",
+  "description": "رفيق العبادات اليومية: تتبع الصلوات الخمس والنوافل، ورد القرآن الكريم، وأذكار حصن المسلم كاملة، مع بوصلة القبلة والتقويم الهجري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
